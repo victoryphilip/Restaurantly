@@ -1,17 +1,5 @@
 /*!
- * Isotope PACKAGED v3.0.6
- *
- * Licensed GPLv3 for open source use
- * or Isotope Commercial License for commercial use
- *
- * https://isotope.metafizzy.co
- * Copyright 2010-2018 Metafizzy
- */
-
-/**
- * Bridget makes jQuery widgets
- * v2.0.1
- * MIT license
+ * https://github.com/victoryphilip/Restaurantly/blob/main/assets/vendor/isotope-layout/isotope.pkgd.js
  */
 
 /* jshint browser: true, strict: true, undef: true, unused: true */
