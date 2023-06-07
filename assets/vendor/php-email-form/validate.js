@@ -1,7 +1,7 @@
 /**
 * PHP Email Form Validation 
 * URL: https://github.com/victoryphilip/Restaurantly/blob/main/assets/vendor/php-email-form/validate.js
-* Author: Philip Ruky Victory
+* Author:victoryphilip
 */
 (function () {
   "use strict";
