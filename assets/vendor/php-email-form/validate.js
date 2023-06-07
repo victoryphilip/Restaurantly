@@ -1,7 +1,7 @@
 /**
-* PHP Email Form Validation - v3.6
-* URL: https://bootstrapmade.com/php-email-form/
-* Author: BootstrapMade.com
+* PHP Email Form Validation 
+* URL: https://github.com/victoryphilip/Restaurantly/blob/main/assets/vendor/php-email-form/validate.js
+* Author: Philip Ruky Victory
 */
 (function () {
   "use strict";
