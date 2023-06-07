@@ -1,9 +1,9 @@
 /**
 * Template Name: Restaurantly
-* Updated: Mar 10 2023 with Bootstrap v5.2.3
-* Template URL: https://bootstrapmade.com/restaurantly-restaurant-template/
-* Author: BootstrapMade.com
-* License: https://bootstrapmade.com/license/
+* Updated: June 07 2023 with VS-Code
+* Template URL: https://github.com/victoryphilip/Restaurantly/blob/main/assets/js/main.js
+* Author: victoryphilip
+* License: https://github.com/victoryphilip/Restaurantly/blob/main/assets/js/main.js
 */
 (function() {
   "use strict";
